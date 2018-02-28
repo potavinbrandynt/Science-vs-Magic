@@ -12,6 +12,7 @@ init python:
     gui.init(1920, 1080)
 
 #Here is a comment, hello! -Chance
+#Hello Chance, it's me! -Brandyn
 
 ################################################################################
 ## GUI Configuration Variables
